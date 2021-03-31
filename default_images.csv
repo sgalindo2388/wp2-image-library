@@ -1,7 +1,5 @@
-id,image_title,image_file,image_alt,image_width,image_height
-1,UofT Building,default-uoft-building.jpg,UofT Building Stairs,6720,4480
-2,UofT Campus,default-uoft-campus.jpg,UofT Campus Shot,1140,760
-3,UofT Crest,default-uoft-crest.jpg,UofT Crest Medicine,1260,760
-4,Butterfly,buttefly.png,Colours Butterfly,983,502
-5,City of Toronto,city-toronto.jpg,Shot of the city of Toronto,1140,635
-6,CN Tower,cn-tower.jpg,CN Tower in window,1200,893
+id,image_title,image_file,image_alt,image_width,image_height,image_tags
+1,UofT Crest,default-uoft-crest.png,UofT Crest,2400,1800,"News Default"
+2,Temerty Medicine,default-uoft-temerty.png,Temerty Medicine wordmark,2400,1800,"News Default"
+3,UofT Building,default-uoft-building.jpg,UofT Building Stairs,6720,4480,"News Default, Campus"
+4,UofT Campus,default-uoft-campus.jpg,UofT Campus,2400,1800,"News Default, Campus"
